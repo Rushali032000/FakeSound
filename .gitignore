@@ -1,0 +1,9 @@
+*.pt
+__pycache__
+ckpts
+models
+FakeSound
+deepfake_data
+*.json
+ASVspoof2019_LA_cm_protocols
+ASVspoof2019_LA_dev
